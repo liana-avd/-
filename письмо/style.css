@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    font-style: italic;
+    line-height: 20px;
+    }
+
+.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.text {
+    position: absolute;
+    max-width: 300px;
+    top: 90px;    
+}
+
+h1 {
+    line-height: 1.2;
+}
+
+img {
+    max-width: 550px;
+}
+
+.liana {
+    position: absolute;
+    right: 10px;
+}
